@@ -1,0 +1,11 @@
+TITLE :  Clean Code: A Handbook of Agile Software Craftsmanship , AUTHOR :  Robert C. Martin , ISBN :  978-0132350884
+TITLE :  Design Patterns: Elements of Reusable Object-Oriented Software , AUTHOR :  Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides , ISBN :  978-0201633610
+TITLE :  Code Complete: A Practical Handbook of Software Construction , AUTHOR :  Steve McConnell  , ISBN :  978-0201616224
+TITLE :  Introduction to Algorithms , AUTHOR :  Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein , ISBN :  978-0262033848
+TITLE :  Head First Design Patterns: A Brain-Friendly Guide , AUTHOR :  Elisabeth Freeman, Eric Freeman, Bert Bates, and Kathy Sierra , ISBN :  978-0596007126
+TITLE :  The Hidden Language of Computer Hardware and Software , AUTHOR : Charles Petzold  , ISBN :  978-0735611313
+TITLE :  Cracking the Coding Interview: 189 Programming Questions and Solutions , AUTHOR :  Gayle Laakmann McDowell , ISBN :  978-0984782857
+TITLE :  Refactoring: Improving the Design of Existing Code , AUTHOR :  Martin Fowler , ISBN :  978-0201485677  
+TITLE :  The Mythical Man-Month: Essays on Software Engineering , AUTHOR :  Frederick P. Brooks Jr.  , ISBN : 978-0201835953 
+ 
+

@@ -1,0 +1,10 @@
+TITLE: The Shining , AUTHOR:  Stephen King , ISBN:  978-0307743657
+TITLE: The Exorcist , AUTHOR:  William Peter Blatty , ISBN:  978-0062094353
+TITLE: The Haunting of Hill House , AUTHOR:  Shirley Jackson , ISBN:  978-0143122357
+TITLE: Dracula , AUTHOR:  Bram Stoke r, ISBN:  978-0486411095
+TITLE: Pet Sematary , AUTHOR:  Stephen King , ISBN:  978-0743412278
+TITLE: Frankenstein , AUTHOR:  Mary Shelley , ISBN:  978-0486282114
+TITLE: The Silence of the Lambs , AUTHOR:  Thomas Harris  ISBN:  978-0312924584
+TITLE: The Girl Next Door , AUTHOR:  Jack Ketchum , ISBN:  978-0843963945
+TITLE: Hell House , AUTHOR:  Richard Matheson , ISBN:  978-0312868857
+TITLE: Ghost Story , AUTHOR:  Peter Straub , ISBN:  978-1101971216

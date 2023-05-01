@@ -1,0 +1,19 @@
+TITLE: To Kill a Mockingbird , AUTHOR:  Harper Lee , ISBN:  978-0446310789
+
+TITLE: The Great Gatsby , AUTHOR:  F. Scott Fitzgerald , ISBN:  978-0743273565
+
+TITLE: 1984 , AUTHOR:  George Orwell , ISBN:  978-0451524935
+
+TITLE: The Catcher in the Rye , AUTHOR:  J.D. Salinger , ISBN:  978-0316769488
+
+TITLE: Pride and Prejudice , AUTHOR:  Jane Austen , ISBN:  978-0486284736
+
+TITLE: The Lord of the Rings , AUTHOR:  J.R.R. Tolkien , ISBN:  978-0544003415
+
+TITLE: The Hobbit , AUTHOR:  J.R.R. Tolkien , ISBN:  978-0547928227
+
+TITLE: One Hundred Years of Solitude , AUTHOR:  Gabriel Garcia Marquez , ISBN:  978-0060883287
+
+TITLE: The Alchemist , AUTHOR:  Paulo Coelho , ISBN:  978-0062315007
+
+TITLE: The Diary of a Young Girl , AUTHOR:  Anne Frank , ISBN:  978-0553577129 
